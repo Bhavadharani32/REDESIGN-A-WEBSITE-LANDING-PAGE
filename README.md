@@ -53,4 +53,4 @@ BY FOLLOWING THIS STRUCTURED APPROACH — ANALYZING, PLANNING, IMPLEMENTING, AND
 
 **AFTER VISUALS**
 
-
+<img width="924" height="844" alt="Image" src="https://github.com/user-attachments/assets/8e256c3d-f9d1-4eb6-a07e-1f6a26f0f23b" />
