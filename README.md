@@ -47,3 +47,8 @@ BY FOLLOWING THIS STRUCTURED APPROACH — ANALYZING, PLANNING, IMPLEMENTING, AND
 ## OUTPUT
 
 **BEFORE VISUALS**
+
+<img width="1881" height="834" alt="Image" src="https://github.com/user-attachments/assets/927adda0-d12b-4a90-9e41-1da87df34a2d" />
+
+**AFTER VISUALS**
+
