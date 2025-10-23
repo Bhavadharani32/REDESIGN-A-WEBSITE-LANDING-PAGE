@@ -12,34 +12,34 @@
 
 **MENTOR**: NEELA SANTHOSH
 
-**DESCRIPTION OF TASK**
-For this task, my objective was to redesign the Zendesk homepage into a focused landing page that improves user experience, minimizes distractions, and enhances conversion potential. The process involved analyzing the original page, planning the new layout, and implementing the redesign in Figma. I followed a structured approach to ensure the design was both functional and visually appealing.
+**TASK DESCRIPTION: REDESIGNING ZENDESK LANDING PAGE**
 
-Step 1: Analysis of the Original Page
-I began by examining the original Zendesk homepage to identify the key issues that hindered user engagement. The homepage had multiple navigation links such as Products, Pricing, Solutions, and Contact Sales, which acted as exit points. It contained multiple CTAs — “Try it for free,” “View demo,” and “Contact Sales” — that competed for attention. The headline was generic and failed to communicate a clear value proposition. Additionally, the footer included unnecessary links and forms, creating visual clutter. From this analysis, I concluded that a minimalistic, focused landing page would be more effective for guiding users toward a single conversion goal.
+FOR THIS TASK, MY OBJECTIVE WAS TO REDESIGN THE ZENDESK HOMEPAGE INTO A FOCUSED LANDING PAGE THAT IMPROVES USER EXPERIENCE, MINIMIZES DISTRACTIONS, AND ENHANCES CONVERSION POTENTIAL. THE PROCESS INVOLVED ANALYZING THE ORIGINAL PAGE, PLANNING THE NEW LAYOUT, AND IMPLEMENTING THE REDESIGN IN FIGMA. I FOLLOWED A STRUCTURED APPROACH TO ENSURE THE DESIGN WAS BOTH FUNCTIONAL AND VISUALLY APPEALING.
 
-Step 2: Planning the Layout
-Next, I planned the new landing page structure from top to bottom. The goal was to eliminate distractions and focus user attention on the main action. I divided the page into seven sections: header, hero section, headline, subheading, form, product visualization, social proof, and footer. I decided to remove the navigation menu and minimize the footer, retaining only essential elements. I also determined the spacing between elements, font styles, colors, and alignment to ensure consistency and readability.
+STEP 1: ANALYSIS OF THE ORIGINAL PAGE
+I BEGAN BY EXAMINING THE ORIGINAL ZENDESK HOMEPAGE TO IDENTIFY THE KEY ISSUES THAT HINDERED USER ENGAGEMENT. THE HOMEPAGE HAD MULTIPLE NAVIGATION LINKS SUCH AS PRODUCTS, PRICING, SOLUTIONS, AND CONTACT SALES, WHICH ACTED AS EXIT POINTS. IT CONTAINED MULTIPLE CTAS — “TRY IT FOR FREE,” “VIEW DEMO,” AND “CONTACT SALES” — THAT COMPETED FOR ATTENTION. THE HEADLINE WAS GENERIC AND FAILED TO COMMUNICATE A CLEAR VALUE PROPOSITION. ADDITIONALLY, THE FOOTER INCLUDED UNNECESSARY LINKS AND FORMS, CREATING VISUAL CLUTTER. FROM THIS ANALYSIS, I CONCLUDED THAT A MINIMALISTIC, FOCUSED LANDING PAGE WOULD BE MORE EFFECTIVE FOR GUIDING USERS TOWARD A SINGLE CONVERSION GOAL.
 
-Step 3: Implementing in Figma
-I started by creating a new desktop frame (1440 px width) in Figma.
+STEP 2: PLANNING THE LAYOUT
+NEXT, I PLANNED THE NEW LANDING PAGE STRUCTURE FROM TOP TO BOTTOM. THE GOAL WAS TO ELIMINATE DISTRACTIONS AND FOCUS USER ATTENTION ON THE MAIN ACTION. I DIVIDED THE PAGE INTO SEVEN SECTIONS: HEADER, HERO SECTION, HEADLINE, SUBHEADING, FORM, PRODUCT VISUALIZATION, SOCIAL PROOF, AND FOOTER. I DECIDED TO REMOVE THE NAVIGATION MENU AND MINIMIZE THE FOOTER, RETAINING ONLY ESSENTIAL ELEMENTS. I ALSO DETERMINED THE SPACING BETWEEN ELEMENTS, FONT STYLES, COLORS, AND ALIGNMENT TO ENSURE CONSISTENCY AND READABILITY.
 
-Header: I placed the Zendesk logo at the top-left corner, sized at 150 px width, with 30 px spacing from the top and left edges. This ensured visibility without distracting from the main content.
+STEP 3: IMPLEMENTING IN FIGMA
+I STARTED BY CREATING A NEW DESKTOP FRAME (1440 PX WIDTH) IN FIGMA.
 
-Hero Section: I added the headline, “Stop Answering the Same Questions. Let Zendesk AI Do It for You,” with a bold font of 48–52 px, centered horizontally and positioned 120 px below the logo. I applied a line height of 1.3 for readability. Below the headline, I added a subheading, “Automate your support responses and focus on what matters most,” with 18–22 px font size and 20–30 px spacing from the headline.
+HEADER: I PLACED THE ZENDESK LOGO AT THE TOP-LEFT CORNER, SIZED AT 150 PX WIDTH, WITH 30 PX SPACING FROM THE TOP AND LEFT EDGES. THIS ENSURED VISIBILITY WITHOUT DISTRACTING FROM THE MAIN CONTENT.
 
-Form Section: I created an input box (400–450 px width, 50 px height) for the work email, left-aligned placeholder text, rounded corners, and a subtle grey border. Below it, I added a green CTA button (“Try it for free”) of the same width and height, spaced 10–15 px from the input box.
+HERO SECTION: I ADDED THE HEADLINE, “STOP ANSWERING THE SAME QUESTIONS. LET ZENDESK AI DO IT FOR YOU,” WITH A BOLD FONT OF 48–52 PX, CENTERED HORIZONTALLY AND POSITIONED 120 PX BELOW THE LOGO. I APPLIED A LINE HEIGHT OF 1.3 FOR READABILITY. BELOW THE HEADLINE, I ADDED A SUBHEADING, “AUTOMATE YOUR SUPPORT RESPONSES AND FOCUS ON WHAT MATTERS MOST,” WITH 18–22 PX FONT SIZE AND 20–30 PX SPACING FROM THE HEADLINE.
 
-Product Visualization: I uploaded a screenshot of the Zendesk chat window, centered below the form, with a width of ~700 px to maintain focus.
+FORM SECTION: I CREATED AN INPUT BOX (400–450 PX WIDTH, 50 PX HEIGHT) FOR THE WORK EMAIL, LEFT-ALIGNED PLACEHOLDER TEXT, ROUNDED CORNERS, AND A SUBTLE GREY BORDER. BELOW IT, I ADDED A GREEN CTA BUTTON (“TRY IT FOR FREE”) OF THE SAME WIDTH AND HEIGHT, SPACED 10–15 PX FROM THE INPUT BOX.
 
-Social Proof and Logos: I added a text line, “Trusted by over 10,000 companies worldwide,” centered below the product image, with a 20 px gap. Below this, I placed a row of 4–6 company logos, evenly spaced and centered.
+PRODUCT VISUALIZATION: I UPLOADED A SCREENSHOT OF THE ZENDESK CHAT WINDOW, CENTERED BELOW THE FORM, WITH A WIDTH OF ~700 PX TO MAINTAIN FOCUS.
 
-Footer: Finally, I added a minimal footer with “© Zendesk | Privacy Policy,” 12–14 px font, centered horizontally, 30 px from the bottom, and an optional thin divider line above it.
+SOCIAL PROOF AND LOGOS: I ADDED A TEXT LINE, “TRUSTED BY OVER 10,000 COMPANIES WORLDWIDE,” CENTERED BELOW THE PRODUCT IMAGE, WITH A 20 PX GAP. BELOW THIS, I PLACED A ROW OF 4–6 COMPANY LOGOS, EVENLY SPACED AND CENTERED.
 
-Step 4: Refinement and Review
-I reviewed the design to ensure consistent spacing, alignment, and font hierarchy. All elements were centered, readable, and visually balanced. The final layout eliminates distractions, focuses on the main CTA, and builds trust through product visuals and social proof.
+FOOTER: FINALLY, I ADDED A MINIMAL FOOTER WITH “© ZENDESK | PRIVACY POLICY,” 12–14 PX FONT, CENTERED HORIZONTALLY, 30 PX FROM THE BOTTOM, AND AN OPTIONAL THIN DIVIDER LINE ABOVE IT.
 
-Conclusion:
-By following this structured approach — analyzing, planning, implementing, and refining — I successfully transformed the Zendesk homepage into a minimalistic, user-focused landing page in Figma. The redesigned page clearly communicates the value proposition, guides users to a single action, and enhances overall usability and conversion potential.
+STEP 4: REFINEMENT AND REVIEW
+I REVIEWED THE DESIGN TO ENSURE CONSISTENT SPACING, ALIGNMENT, AND FONT HIERARCHY. ALL ELEMENTS WERE CENTERED, READABLE, AND VISUALLY BALANCED. THE FINAL LAYOUT ELIMINATES DISTRACTIONS, FOCUSES ON THE MAIN CTA, AND BUILDS TRUST THROUGH PRODUCT VISUALS AND SOCIAL PROOF.
 
+CONCLUSION:
+BY FOLLOWING THIS STRUCTURED APPROACH — ANALYZING, PLANNING, IMPLEMENTING, AND REFINING — I SUCCESSFULLY TRANSFORMED THE ZENDESK HOMEPAGE INTO A FOCUSED, HIGH-CONVERTING LANDING PAGE IN FIGMA. THE REDESIGNED PAGE CLEARLY COMMUNICATES THE VALUE PROPOSITION, GUIDES USERS TO A SINGLE ACTION, AND ENHANCES OVERALL USABILITY AND CONVERSION POTENTIAL.
 
